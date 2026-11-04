@@ -4,7 +4,7 @@
 
 No `malloc`, no bloated standard libraries, and no Arduino framework. Just raw C, inline AVR assembly, and direct register manipulation.
 
-![Breadboard Setup](breadboard_setup.jpg)
+<img src="breadboard_setup.png" width="500">
 
 ---
 
